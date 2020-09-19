@@ -7,6 +7,14 @@ adjusting for business days and holidays.
 .. image:: https://travis-ci.com/Parasgupta44/py_holiday_calendar.svg?branch=master
     :target: https://travis-ci.com/Parasgupta44/py_holiday_calendar
 
+Usage
+^^^^^^^^^^^^^
+Just run the following snippet in your python env ans start using the package.
+
+.. code-block:: python
+
+    pip install -v py-holiday-calendar
+
 Docs
 ^^^^^^^^^^^^^
 

@@ -2,6 +2,8 @@ import os
 
 from setuptools import setup, find_packages
 
+print("Starting the installation!!")
+
 
 def read(*paths):
     """Build a file path from *paths* and return the contents."""
@@ -37,5 +39,7 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
+    keywords='sample, business date, development, custom holidays',
 )
 
+print("Finished...amani!!")

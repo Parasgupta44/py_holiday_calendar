@@ -28,7 +28,7 @@ def _initialise_cal_obj(workdays, holidays):
 
 
 def calc_diff_with_holidays(df, start, end, new_col, workdays=[MO, TU, WE, TH, FR], holidays=[]):
-    """Calculate difference between pandas df columns adjusting for custom bus and holidays.
+    """Calculate difference between pandas df columns adjusting for custom bus and holidays. Start date is included.
 
     The return type will be the pandas dataframe.
 
@@ -62,7 +62,7 @@ def calc_diff_with_holidays(df, start, end, new_col, workdays=[MO, TU, WE, TH, F
 
 
 def add_bus_days_with_holidays(df, col_op, col_res, days, workdays=[MO, TU, WE, TH, FR], holidays=[]):
-    """Add bus days to a column in pandas dataframe.
+    """Add business days to a column in pandas dataframe (holidays can be considered).
 
     The return type must be the modified df containing a new column with the result after adding business days.
 
