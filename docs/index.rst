@@ -8,6 +8,7 @@ Welcome to Py Holiday Calendar's documentation!
    given_modules
    addition
    contact
+   example
 
 Indices and tables
 ==================
