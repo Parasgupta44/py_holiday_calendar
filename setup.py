@@ -17,4 +17,9 @@ setup(
     author='Paras Gupta',
     author_email='paras.gupta986745@gmail.com',
     packages=find_packages(exclude=['test*']),
+    install_requires=[
+        "business_calendar",
+        "pandas",
+    ],
 )
+
