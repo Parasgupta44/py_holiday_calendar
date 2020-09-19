@@ -15,6 +15,8 @@ import sys
 
 sys.path.insert(0, os.path.abspath('../../py_holiday_calendar'))
 
+master_doc = 'index'
+
 # -- Project information -----------------------------------------------------
 
 project = 'Py Holiday Calendar'
