@@ -7,7 +7,7 @@ from py_holiday_calendar import py_holiday_calendar as check
 df = {
     'day': ['1/1/2018', '4/8/2019', '12/13/2019', '1/2/2019'],
     'temp': [44, 45, 87, 66],
-    'str': ['GSIB', 'Data', 'GSIB', 'data'],
+    'str': ['Brake', 'Data', 'Gimp', 'data'],
     'drake': ['eminem', 'marshall', 'drogon', 'eminem'],
     'day1': ['1/5/2018', '4/12/2019', '12/31/2019', '1/8/2019'],
 }
