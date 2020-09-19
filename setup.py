@@ -12,14 +12,30 @@ def read(*paths):
 setup(
     name='py_holiday_calendar',
     version='0.0.1',
-    description='Calculate date differences using including custom holidays and business days.',
+    description='Simple date operations of difference and adding business days also adjusted for holidays.',
+    long_description=(read('README.rst')),
+    url='https://github.com/Parasgupta44/py_holiday_calendar',
     license='MIT',
     author='Paras Gupta',
     author_email='paras.gupta986745@gmail.com',
     packages=find_packages(exclude=['test*']),
+    include_package_data=True,
     install_requires=[
         "business_calendar",
         "pandas",
+    ],
+    classifiers=[
+        'Development Status :: 3 - Alpha',
+        'Intended Audience :: Developers',
+        'Natural Language :: English',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python',
+        'Programming Language :: Python :: 3.3',
+        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Topic :: Software Development :: Libraries :: Python Modules',
     ],
 )
 

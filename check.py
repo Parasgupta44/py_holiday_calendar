@@ -21,5 +21,8 @@ print(df.dtypes)
 check.calc_diff_with_holidays(df, 'day', 'day1', 'new_date')
 print(df)
 
+check.calc_diff_with_holidays(df, 'day', 'day1', 'new_date', workdays=[MO, TU, WE, TH])
+print(df)
+
 check.add_bus_days_with_holidays(df, 'day', 'temp', 1)
 print(df)
