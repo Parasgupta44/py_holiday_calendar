@@ -11,7 +11,7 @@ def read(*paths):
 
 setup(
     name='py_holiday_calendar',
-    version='0.0.3',
+    version='0.0.4',
     description='Simple date operations of difference and adding business days also adjusted for holidays.',
     long_description=(read('README.rst')),
     url='https://github.com/Parasgupta44/py_holiday_calendar',

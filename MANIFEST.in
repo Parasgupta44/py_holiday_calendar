@@ -1,2 +1,4 @@
+include pyproject.toml
+
 include *.rst
 include LICENSE.txt
