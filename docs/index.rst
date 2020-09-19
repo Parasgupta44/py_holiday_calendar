@@ -1,11 +1,14 @@
 Welcome to Py Holiday Calendar's documentation!
 ===============================================
 
-
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
-   py_holiday_calendar
+.. automodule:: py_holiday_calendar.py_holiday_calendar
+   :members:
+
+
 
 Indices and tables
 ==================
