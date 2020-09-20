@@ -9,7 +9,7 @@ adjusting for business days and holidays.
 
 Usage
 ^^^^^^^^^^^^^
-Just run the following snippet in your python env ans start using the package.
+Just run the following snippet in your python env and start using the package.
 
 .. code-block:: python
 
