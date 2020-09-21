@@ -1,7 +1,7 @@
 Py Holiday Calendar
 ============================
 
-**py_holiday_calender** is a Python package containing methods to manipulate date columns of pandas dataframes
+**py_holiday_calendar** is a Python package containing methods to manipulate date columns of pandas dataframes
 adjusting for business days and holidays.
 
 .. image:: https://travis-ci.com/Parasgupta44/py_holiday_calendar.svg?branch=master
