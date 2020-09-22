@@ -6,6 +6,10 @@ adjusting for business days and holidays.
 
 .. image:: https://travis-ci.com/Parasgupta44/py_holiday_calendar.svg?branch=master
     :target: https://travis-ci.com/Parasgupta44/py_holiday_calendar
+.. image:: https://img.shields.io/pypi/v/py-holiday-calendar
+.. image:: https://img.shields.io/pypi/status/py-holiday-calendar
+.. image:: https://img.shields.io/pypi/format/py-holiday-calendar
+.. image:: https://img.shields.io/pypi/dw/py-holiday-calendar
 
 Usage
 ^^^^^^^^^^^^^
