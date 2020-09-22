@@ -10,7 +10,10 @@ adjusting for business days and holidays.
     :target: https://img.shields.io/pypi/v/py-holiday-calendar
 .. image:: https://img.shields.io/pypi/status/py-holiday-calendar.svg
     :target: https://img.shields.io/pypi/status/py-holiday-calendar
-
+.. image:: https://img.shields.io/pypi/format/py-holiday-calendar.svg
+    :target: https://img.shields.io/pypi/format/py-holiday-calendar
+.. image:: https://img.shields.io/pypi/dw/py-holiday-calendar.svg
+    :target: https://img.shields.io/pypi/dw/py-holiday-calendar
 
 Usage
 ^^^^^^^^^^^^^
