@@ -13,8 +13,8 @@ def read(*paths):
 
 setup(
     name='py_holiday_calendar',
-    version='0.0.5',
-    description='Simple date operations of difference and adding business days also adjusted for holidays.',
+    version='0.0.6',
+    description='Simple date operations on pandas dataframes of difference and adding business days also adjusted for holidays.',
     long_description=(read('README.rst')),
     url='https://github.com/Parasgupta44/py_holiday_calendar',
     license='MIT',
